@@ -83,7 +83,7 @@ This separation ensures **clean architecture and scalability**.
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/Proxpekt/Backend-Intern-Assignment-GoStuds
+git clone https://github.com/Amit-Singh-P/GoStuds-AssignmentGoStuds
 cd Assesment
 ```
 
@@ -466,6 +466,6 @@ Used to prevent duplicate project titles per user.
 
 # Author
 
-**Aayush Saxena**
+**Amit Singh**
 
 Backend Intern Assignment – GoStuds
